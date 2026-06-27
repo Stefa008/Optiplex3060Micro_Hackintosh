@@ -1,5 +1,3 @@
-![Banner do Projeto](images/Readme.png)
-
 <p align="center">
   <img src="https://img.shields.io/badge/OC-1.0.7-2F80ED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/macOS-12.5~26.5.1-6F42C1?style=for-the-badge&logo=apple&logoColor=white" />
