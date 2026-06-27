@@ -1,8 +1,8 @@
 ![Banner do Projeto](images/Readme.png)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OC-1.0.2-2F80ED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/macOS-12.5~14.4-6F42C1?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/OC-1.0.7-2F80ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/macOS-12.5~26.5.1-6F42C1?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@ It’s designed to provide a **stable, optimized configuration**, allowing you t
 ## ⚡ Features  
 
 ✅ **Support for macOS Sequoia** – Compatible with the latest version of macOS Sequoia.  
-✅ **OpenCore 1.0.2** – Uses the latest version of OpenCore, ensuring better compatibility and performance.  
+✅ **OpenCore 1.0.7** – Uses the latest version of OpenCore, ensuring better compatibility and performance.  
 ✅ **Updated drivers and kexts** – Includes the latest drivers and kexts to ensure correct operation of the hardware.  
-✅ **Optimized configuration** – Custom configuration for **Optiplex 3060**, offering the best performance and stability.  
+✅ **Optimized configuration** – Custom configuration for **Optiplex 3060 Micro**, offering the best performance and stability.  
 
 ---
 
@@ -36,20 +36,15 @@ It’s designed to provide a **stable, optimized configuration**, allowing you t
 
 | Component              | Specification          |
 |------------------------|-----------------------|
-| **Processor**         | Intel Core i5-8400T   |
+| **Processor**         | Intel Core i5-8500T   |
 | **iGPU**              | Intel HD Graphics 630 |
-| **RAM**               | 8GB                   |
+| **RAM**               | 24GB                   |
 | **Hard Drive**        | 256GB NVMe SSD        |
-| **Wi-Fi & Bluetooth** | BCM94360CD            |
+| **Wi-Fi & Bluetooth** | Intel Wireless AC 3160            |
 
 ---
 
 ## 🔗 Credits  
 
-- **OpenCore Team** – For their amazing bootloader.  
-- **Hackintosh Community** – For continuous support and development.  
-- **LucasFBS** – For the attention and support in the creation of EFI.
+- **OpenCore Team** –  
 
----
-
-🔹 *This build is a work in progress.*
